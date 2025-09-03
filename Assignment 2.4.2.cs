@@ -32,7 +32,7 @@ namespace Assignment_2._4._2
                     maxIndex = i;
                 }
             }
-            Console.WriteLine("Element {0} of value {1}, is the largest value in the array of length {2}.", maxIndex + 1, numbers[maxIndex], n);
+            Console.WriteLine($"Element {maxIndex + 1} of value {numbers[maxIndex]}, is the largest value in the array of length {n}.");
         }
     }
 }
