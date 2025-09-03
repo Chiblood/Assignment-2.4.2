@@ -36,3 +36,4 @@ namespace Assignment_2._4._2
         }
     }
 }
+// use similar concepts to reverse an array
