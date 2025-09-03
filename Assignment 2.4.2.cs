@@ -10,7 +10,7 @@
 */
 namespace Assignment_2._4._2
 {
-    public class Program
+    class Program
     {
         public static void Main(string[] args)
         {
